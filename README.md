@@ -29,7 +29,7 @@ Explore níveis misteriosos, entidades estranhas e ambientes que desafiam a lóg
 Criador Guilherme Albuquerque
 Imagens fotografadas por Guilherme Albuquerque
 Scripts por Copilot IA e Guilherme Albuquerque
-Se você deseja contribuir com imagens ou ideias, acesse [Contribuir.html](Contribuir.html).
+Se você deseja contribuir com imagens ou ideias, acesse [Contribuir.html](Liminalrooms/Contribuir.html).
 
 ## 📄 Licença
 
