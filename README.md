@@ -26,10 +26,11 @@ Explore níveis misteriosos, entidades estranhas e ambientes que desafiam a lóg
 
 ## 📸 Créditos
 
-Criador Guilherme Albuquerque
-Imagens fotografadas por Guilherme Albuquerque
-Scripts por Copilot IA e Guilherme Albuquerque
-Se você deseja contribuir com imagens ou ideias, acesse [Contribuir.html](Liminalrooms/Contribuir.html).
+- Criador Guilherme Albuquerque
+- Imagens fotografadas por Guilherme Albuquerque
+- Scripts por Copilot IA e Guilherme Albuquerque
+
+- Se você deseja contribuir com imagens ou ideias, acesse [Contribuir.html](https://guilhermealbuquerque9.github.io/Liminalrooms/Contribuir) e siga as instruções!.
 
 ## 📄 Licença
 
